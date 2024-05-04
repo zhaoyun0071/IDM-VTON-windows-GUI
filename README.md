@@ -1,5 +1,5 @@
 # IDM-VTON-windows-GUI
-Windows不用搭建环境只要英伟达显卡就行，解压即用！
+Windows不用搭建环境只要英伟达显卡就行，6G显存仅需，解压即用！
 
 # 软件基于开源的项目
 https://github.com/yisol/IDM-VTON 
